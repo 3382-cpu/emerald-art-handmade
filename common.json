@@ -1,0 +1,109 @@
+{
+  "Header": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "login": "Login",
+    "register": "Register",
+    "profile": "My Profile",
+    "logout": "Logout",
+    "cart": "Cart",
+    "brand": "Emerald Art Handmade"
+  },
+  "Footer": {
+    "copyright": "© {year} Emerald Art Handmade. All rights reserved.",
+    "description": "High-quality handmade artificial flower bouquets and decorated mirrors."
+  },
+  "HomePage": {
+    "welcome": "Welcome to Emerald Art Handmade",
+    "tagline": "Exquisite Handcrafted Artificial Bouquets & Decor",
+    "shopNow": "Shop Now",
+    "featuredProducts": "Featured Products"
+  },
+  "ProductsPage": {
+    "title": "Our Products",
+    "loading": "Loading products...",
+    "error": "Error: {error}",
+    "noProducts": "No products found.",
+    "viewDetails": "View Details",
+    "addToCart": "Add to Cart"
+  },
+  "ProductDetailPage": {
+    "loading": "Loading product details...",
+    "error": "Error: {error}",
+    "notFound": "Product not found.",
+    "price": "${price} USD",
+    "color": "Color:",
+    "quantity": "Quantity:",
+    "addToCart": "Add to Cart",
+    "shippingInfo": "Free shipping worldwide (15-22 days estimate).",
+    "reviewsTitle": "Customer Reviews",
+    "noReviews": "No reviews yet for this product.",
+    "byUser": "by User {id}"
+  },
+  "AboutPage": {
+    "title": "About Us",
+    "paragraph": "We are \"Emerald Art Handmade\", offering unique and distinctive handmade artificial flower bouquets and flower-decorated mirrors with feminine and elegant designs. Each piece is prepared with love and craftsmanship to be suitable for gifts or decorating any place with a warm and beautiful character. Our goal is to bring our art everywhere and delight our customers with a unique and safe experience from the first contact until the order is received."
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "intro": "Have questions or want to discuss a custom order? Get in touch!",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "messageLabel": "Message",
+    "submitButton": "Send Message",
+    "sending": "Sending...",
+    "contactInfoTitle": "Contact Information",
+    "emailInfo": "Email: contact@emeraldarthm.com (Example)",
+    "phoneInfo": "Phone: +1-234-567-890 (Example)",
+    "addressInfo": "Address: Online Store, Ships Worldwide",
+    "successMsg": "Message sent successfully!",
+    "errorMsg": "Failed to send message. Please try again later."
+  },
+  "LoginPage": {
+    "title": "Login",
+    "usernameLabel": "Username",
+    "passwordLabel": "Password",
+    "loginButton": "Login",
+    "loggingIn": "Logging in...",
+    "registerPrompt": "Don't have an account?",
+    "registerLink": "Register here"
+  },
+  "RegisterPage": {
+    "title": "Create New Account",
+    "usernameLabel": "Username",
+    "emailLabel": "Email Address",
+    "passwordLabel": "Password",
+    "confirmPasswordLabel": "Confirm Password",
+    "registerButton": "Register",
+    "registering": "Registering...",
+    "loginPrompt": "Already have an account?",
+    "loginLink": "Login here",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "ProfilePage": {
+    "title": "My Profile",
+    "username": "Username:",
+    "email": "Email:",
+    "memberSince": "Member Since:",
+    "ordersTitle": "My Orders",
+    "messagesTitle": "My Messages",
+    "orderDetails": "Order Details",
+    "orderId": "Order ID",
+    "orderDate": "Date",
+    "orderStatus": "Status",
+    "orderTotal": "Total",
+    "noOrders": "No past orders found.",
+    "messageFrom": "From",
+    "messageTo": "To",
+    "messageSubject": "Subject",
+    "messageDate": "Date",
+    "noMessages": "No messages found.",
+    "logoutButton": "Logout",
+    "loading": "Loading...",
+    "errorPrefix": "Error: ",
+    "pleaseLogin": "Please login to view your profile."
+  }
+}
+
